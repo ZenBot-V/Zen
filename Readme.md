@@ -1,4 +1,5 @@
-!C:\Users\81sig\Downloads\websc.jpg"(C:\Users\81sig\Downloads\websc.jpg")"
+![websc](https://github.com/user-attachments/assets/647b4afc-eabf-4f70-9950-56c3c99b568d)
+
 
 BravoCyberScraper
 Overview
