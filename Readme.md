@@ -8,13 +8,16 @@
 BravoCyberScraper is a Python-based web scraper designed to extract job listings specifically for entry-level cybersecurity positions in the USA. It uses the jSearch API to gather job data, which includes essential details such as job title, employer, location, and more. The results are stored in JSON format and can also be exported to a CSV file for easy analysis.
 
 
-Features
+##Features
+
 Fetches entry-level cybersecurity jobs from the jSearch API.
 Supports various query parameters such as job type, location, and salary.
 Logs detailed information about the scraping process for easier debugging and tracking.
 Outputs job listings in both JSON and CSV formats.
-Requirements
+
+## Requirements
 Before running the scraper, ensure you have the following installed:
+
 
 Python 3.x
 Libraries:
