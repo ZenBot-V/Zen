@@ -66,7 +66,7 @@ python
 Copy code
 # Define headers with your API key
 HEADERS = {
-    "x-rapidapi-key": "3005d65a7bmsh6992a884ea68973p17c372jsn141c7a7efd7c",
+    "x-rapidapi-key": "API",
     "x-rapidapi-host": "jsearch.p.rapidapi.com"
 }
 Replace the API key value with your actual RapidAPI key if it's different.
