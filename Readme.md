@@ -1,4 +1,4 @@
-"C:\Users\81sig\Downloads\websc.jpg"
+!C:\Users\81sig\Downloads\websc.jpg"(C:\Users\81sig\Downloads\websc.jpg")"
 
 BravoCyberScraper
 Overview
