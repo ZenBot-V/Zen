@@ -26,16 +26,24 @@ pandas
 json
 time
 logging
-You can install the required libraries using pip:
+
+###You can install the required libraries using pip:
 
 bash
-Copy code
-pip install requests pandas
-Configuration
-API Key: The script requires a valid API key to access the jSearch API. Replace the placeholder API key in the code with your actual key:
 
-python
 Copy code
+
+pip install requests pandas
+
+##Configuration
+
+API Key: The script requires a valid API key to access the jSearch API. 
+Replace the placeholder API key in the code with your actual key:
+
+### python
+
+Copy code
+
 HEADERS = {
     "x-rapidapi-key": "YOUR_API_KEY_HERE",
     "x-rapidapi-host": "jsearch.p.rapidapi.com"
