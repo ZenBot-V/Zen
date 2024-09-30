@@ -14,7 +14,7 @@ import json
 # API URL and headers
 API_URL = "https://rapid-linkedin-jobs-api.p.rapidapi.com/search-jobs-v2"
 HEADERS = {
-    "x-rapidapi-key": "3005d65a7bmsh6992a884ea68973p17c372jsn141c7a7efd7c",
+    "x-rapidapi-key": "API-KEY",
     "x-rapidapi-host": "rapid-linkedin-jobs-api.p.rapidapi.com"
 }
 
